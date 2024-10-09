@@ -1,16 +1,62 @@
-# img_to_pdf
+# Image to PDF Converter
 
-Convert Image to PDF
+## 📱 앱 소개
 
-## Getting Started
+Image to PDF Converter는 사용자가 쉽고 빠르게 이미지 파일을 PDF 문서로 변환할 수 있는 모바일 애플리케이션입니다.
 
-This project is a starting point for a Flutter application.
+## 🌟 주요 기능
 
-A few resources to get you started if this is your first Flutter project:
+- **이미지 선택**: 기기 갤러리에서 원하는 이미지를 선택
+- **PDF 변환**: 선택된 이미지를 고품질 PDF로 변환
+- **미리보기**: 변환된 PDF 파일을 앱 내에서 즉시 확인
+- **간편한 UI**: 직관적이고 사용하기 쉬운 인터페이스
+- **신속한 처리**: 빠른 변환 속도로 효율적인 작업 가능
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 💡 사용 사례
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. 문서 스캔 및 디지털화
+2. 명함 관리
+3. 레시피 정리
+4. 학습 자료 관리
+5. 여행 계획 문서화
+
+## 🛠 기술 스택
+
+- **개발 프레임워크**: Flutter
+- **주요 패키지**:
+    - image_picker: 이미지 선택
+    - pdf: PDF 생성
+    - open_file: PDF 미리보기
+    - google_mobile_ads: 광고 표시
+
+## 📊 앱 구조
+
+1. **메인 화면**
+    - 이미지 선택 버튼
+    - PDF 변환 버튼
+    - 선택된 이미지 미리보기
+    - 하단 배너 광고
+2. **PDF 변환 프로세스**
+    - 이미지 파일 로드
+    - PDF 문서 생성
+    - 이미지를 PDF에 삽입
+    - 임시 저장소에 PDF 저장
+3. **PDF 미리보기**
+    - 변환된 PDF 파일 열기
+
+## 🚀 향후 개선 계획
+
+- [ ]  다중 이미지 선택 및 변환 기능 추가
+- [ ]  PDF 파일 이름 설정 옵션
+- [ ]  클라우드 저장소 연동
+- [ ]  이미지 편집 기능 (자르기, 회전 등)
+- [ ]  다크 모드 지원
+
+## 📞 지원 및 문의
+
+문의사항이나 지원이 필요한 경우 아래 링크를 이용해 주세요:
+[지원 페이지](https://github.com/yourusername/image-to-pdf-converter/issues)
+
+## 📝 라이선스
+
+이 앱은 MIT 라이선스 하에 배포됩니다.
