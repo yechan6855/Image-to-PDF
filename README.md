@@ -55,7 +55,7 @@ Image to PDF Converter는 사용자가 쉽고 빠르게 이미지 파일을 PDF 
 ## 📞 지원 및 문의
 
 문의사항이나 지원이 필요한 경우 아래 링크를 이용해 주세요:
-[지원 페이지](https://github.com/yourusername/image-to-pdf-converter/issues)
+[지원 페이지](https://github.com/yechan6855/image-to-pdf/issues)
 
 ## 📝 라이선스
 
